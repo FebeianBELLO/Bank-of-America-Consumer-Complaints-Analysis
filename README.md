@@ -13,6 +13,9 @@ The analysis of this project is to uncover insights and trends that can help imp
 operational efficiency of financial complaints related to Bank of America from 2017 to 2023. The data includes
 critical information which was submitted to the Consumer Financial Protection Bureau (CFPB) and then sent to 
 the company,we aim to make data-driven recommendations.
+![Dashboard](
+
+
 ### Data sources 
 The primary dataset used for this analysis is the "consumer_complaints.xlsx"file, 
 Source: (Consumer Financial Protection Bureau)
