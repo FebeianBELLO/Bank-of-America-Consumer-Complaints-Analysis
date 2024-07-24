@@ -39,6 +39,12 @@ Source: (Consumer Financial Protection Bureau)
 - summarize the types of resolutions provided for complaints and  how well the company’s response strategies are working.
 - identify patterns or discrepancies in response times across different complaint 
 -  based on complaint trends, performing advanced analyses to uncover deeper insights and correlations in the complaint data, and  provide actionable recommendations for improving product offerings, customer service, and operational efficiency.
+![Dashboard](https://github.com/FebeianBELLO/Bank-of-America-Consumer-Complaints-Analysis/blob/main/ori.png)
+
+
+
+
+
 ### Analysis findings 
 - The analysis identified distinct seasonal trends in consumer complaints, with a noticeable upward trend over time. The highest peak occurred in July 2023, with 1,749 complaints, primarily from California. The major sub-issues involved "checking accounts."
 - "Saving and checking accounts" were the products with the highest number of complaints, totaling 24,814 issues.
