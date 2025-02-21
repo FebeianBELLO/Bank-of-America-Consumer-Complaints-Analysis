@@ -24,6 +24,7 @@ The primary dataset used for this analysis is the "consumer_complaints.xlsx"file
 Source: (Consumer Financial Protection Bureau)
 ### Tools
 ---
+Excel
 - Pivot Tables
 - Formulas and Functions
 - Conditional Formatting
