@@ -46,8 +46,7 @@ Excel
 - summarize the types of resolutions provided for complaints and  how well the company’s response strategies are working.
 - identify patterns or discrepancies in response times across different complaint 
 -  based on complaint trends, performing advanced analyses to uncover deeper insights and correlations in the complaint data, and  provide actionable recommendations for improving product offerings, customer service, and operational efficiency.
-![Dashboard](https://github.com/FebeianBELLO/Bank-of-America-Consumer-Complaints-Analysis/blob/main/ori.png)
-
+![Dashboard](https://github.com/FebeianBELLO/Bank-of-America-Consumer-Complaints-Analysis/blob/main/consumer%20BOA.png)
 
 
 ### Analysis findings 
