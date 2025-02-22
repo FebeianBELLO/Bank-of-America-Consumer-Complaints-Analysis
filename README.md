@@ -1,4 +1,4 @@
-# Bank-of-America-Consumer-Complaints-Analysis
+# Bank-of-America-consumer-Complaints-Analysis
 ---
 ## Table of contents 
 - 1.[project overview](#project-overview)
